@@ -9,7 +9,7 @@ function Page8() {
           muted
           loop
           className="object-cover w-full h-full"
-          src="/src/assets/video3.mp4"
+          src="/Anzo-studio-clone/videos/video3.mp4"
         ></video>
         <div className="flex p-8 justify-between text-[#fafafa] absolute flex-col text-center w-[99%] h-full">
           <div>

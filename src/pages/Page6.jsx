@@ -9,7 +9,7 @@ function Page6() {
           muted
           autoPlay="auto"
           className="h-full w-full object-cover"
-          src="/src/assets/video2.mp4"
+          src="/Anzo-studio-clone/videos/video2.mp4"
         ></video>
 
         <h1 className="text-[40vw] tracking-[10px] mt-[9%] ml-[5%] text-[#fafafa] font-[anzo1] leading-[30vw] absolute">

@@ -11,6 +11,7 @@ import Page7 from "./pages/Page7";
 import Page8 from "./pages/Page8";
 import Page9 from "./pages/Page9";
 import LastPart from "./pages/LastPart";
+import { HashRouter } from 'react-router-dom';
 
 function App() {
   useEffect(() => {
@@ -25,7 +26,7 @@ function App() {
   }, []);
 
   return (
-    <>
+    <HashRouter>
       <div className="overflow-x-hidden">
         <Header />
         <Page1 />
@@ -39,7 +40,7 @@ function App() {
         <Page9 />
         <LastPart />
       </div>
-    </>
+    </HashRouter>
   );
 }
 

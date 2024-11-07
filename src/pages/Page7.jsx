@@ -21,7 +21,7 @@ function Page7() {
 
   return (
     <div className="h-[900px] p-3 bg-[#fafafa]">
-      <div className="h-full shadow-[0px_0px_8px_5px_#00000024] relative flex justify-center bg-black shadow-gray-300 overflow-hidden rounded-[30px]">
+      <div className="h-full shadow-[0px_0px_8px_5px_#00000024] relative bg-black shadow-gray-300 overflow-hidden rounded-[30px]">
         <img
           id="image"
           src="https://static.wixstatic.com/media/f1c650_e5c1c4b281ea418a8663a17e66f283f1~mv2.png/v1/fill/w_627,h_539,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/triangle%203.png"
